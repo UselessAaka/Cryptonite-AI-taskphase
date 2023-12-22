@@ -29,3 +29,7 @@ X<sub>1</sub>,X<sub>2</sub>,..... are the independent variables
 θ<sub>0</sub> is the intercept
 
 θ<sub>1</sub>,θ<sub>2</sub>,......,θ<sub>n</sub> are the slopes
+
+
+![11111111](https://github.com/UselessAaka/Cryptonite-AI-taskphase/assets/148384618/87daa692-afc4-47b6-b3c9-761c03047f57)
+
